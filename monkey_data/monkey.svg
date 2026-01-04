@@ -59,7 +59,7 @@
 <ellipse cx="285" cy="145" rx="18" ry="22" fill="#FF9999"/>
 <ellipse cx="200" cy="200" rx="110" ry="115" fill="#D2B48C" filter="url(#shadow)"/>
 <ellipse cx="180" cy="140" rx="50" ry="30" fill="#E8D4B8" opacity="0.3"/>
-<g clip-path="url(#head-clip)"><circle cx="110" cy="110" r="12" fill="#000" opacity="0.12"/><circle cx="228" cy="244" r="12" fill="#000" opacity="0.12"/><circle cx="166" cy="198" r="12" fill="#000" opacity="0.12"/><circle cx="284" cy="152" r="12" fill="#000" opacity="0.12"/><circle cx="222" cy="286" r="12" fill="#000" opacity="0.12"/><circle cx="160" cy="240" r="12" fill="#000" opacity="0.12"/><circle cx="278" cy="194" r="12" fill="#000" opacity="0.12"/><circle cx="216" cy="148" r="12" fill="#000" opacity="0.12"/><circle cx="154" cy="282" r="12" fill="#000" opacity="0.12"/><circle cx="272" cy="236" r="12" fill="#000" opacity="0.12"/></g>
+<g clip-path="url(#head-clip)"><circle cx="110" cy="110" r="12" fill="#000" opacity="0.12"/><circle cx="267" cy="151" r="12" fill="#000" opacity="0.12"/><circle cx="244" cy="192" r="12" fill="#000" opacity="0.12"/><circle cx="221" cy="233" r="12" fill="#000" opacity="0.12"/><circle cx="198" cy="274" r="12" fill="#000" opacity="0.12"/><circle cx="175" cy="135" r="12" fill="#000" opacity="0.12"/><circle cx="152" cy="176" r="12" fill="#000" opacity="0.12"/><circle cx="129" cy="217" r="12" fill="#000" opacity="0.12"/><circle cx="286" cy="258" r="12" fill="#000" opacity="0.12"/><circle cx="263" cy="119" r="12" fill="#000" opacity="0.12"/></g>
 <ellipse cx="200" cy="235" rx="70" ry="60" fill="#FFDAB9"/>
 <ellipse cx="200" cy="250" rx="55" ry="40" fill="#DEB887" opacity="0.3"/>
 <ellipse cx="162" cy="185" rx="22" ry="24" fill="#000" opacity="0.08"/>
@@ -79,7 +79,7 @@
             <ellipse cx="208" cy="230" rx="5" ry="7" fill="#5D2E0C"/>
         </g>
 <path d="M170 260 Q200 285 230 260" stroke="#5D2E0C" stroke-width="4" fill="none"/>
-<path d="M110 120 Q200 90 290 120" stroke="#E74C3C" stroke-width="12" fill="none"/><polygon points="105,125 90,160 115,150" fill="#E74C3C"/>
+
 
 <g transform="translate(325, 15)">
             <rect width="65" height="22" rx="4" fill="#A0A0A0" opacity="0.9"/>

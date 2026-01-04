@@ -703,6 +703,22 @@
         "special": "none"
       },
       "story": "Your monkey evolved! Changes: accessory: none \u2192 bandana"
+    },
+    {
+      "timestamp": "2026-01-04T02:04:53.012393",
+      "dna_hash": "e40ae4ff87b3f6cd",
+      "generation": 2,
+      "mutation_count": 7,
+      "rarity_score": 10.0,
+      "traits": {
+        "body_color": "tan",
+        "face_expression": "happy",
+        "accessory": "none",
+        "pattern": "spots",
+        "background": "blue_sky",
+        "special": "none"
+      },
+      "story": "Your monkey evolved! Changes: accessory: bandana \u2192 none"
     }
   ]
 }
