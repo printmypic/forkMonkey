@@ -1599,6 +1599,22 @@
         "special": "none"
       },
       "story": "Your monkey evolved! Changes: background: sunset \u2192 blue_sky"
+    },
+    {
+      "timestamp": "2026-03-01T02:34:22.486552",
+      "dna_hash": "3f734cbd8e6f8ed1",
+      "generation": 2,
+      "mutation_count": 35,
+      "rarity_score": 20.0,
+      "traits": {
+        "body_color": "tan",
+        "face_expression": "laughing",
+        "accessory": "headphones",
+        "pattern": "hearts",
+        "background": "blue_sky",
+        "special": "none"
+      },
+      "story": "Your monkey evolved! Changes: pattern: fractals \u2192 hearts"
     }
   ]
 }
