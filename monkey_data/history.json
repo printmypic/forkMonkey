@@ -1743,6 +1743,22 @@
         "special": "none"
       },
       "story": "Your monkey evolved! Changes: body_color: beige \u2192 tan"
+    },
+    {
+      "timestamp": "2026-03-10T02:11:52.302407",
+      "dna_hash": "690680d288dc505e",
+      "generation": 2,
+      "mutation_count": 41,
+      "rarity_score": 21.666666666666668,
+      "traits": {
+        "body_color": "tan",
+        "face_expression": "surprised",
+        "accessory": "monocle",
+        "pattern": "hearts",
+        "background": "forest",
+        "special": "none"
+      },
+      "story": "Your monkey evolved! Changes: face_expression: winking \u2192 surprised"
     }
   ]
 }
