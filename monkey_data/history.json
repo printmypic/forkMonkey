@@ -1807,6 +1807,22 @@
         "special": "none"
       },
       "story": "Your monkey evolved! Changes: accessory: monocle \u2192 sunglasses"
+    },
+    {
+      "timestamp": "2026-03-14T02:12:56.359174",
+      "dna_hash": "cf90f966929ed925",
+      "generation": 2,
+      "mutation_count": 44,
+      "rarity_score": 20.0,
+      "traits": {
+        "body_color": "gray",
+        "face_expression": "surprised",
+        "accessory": "sunglasses",
+        "pattern": "spots",
+        "background": "forest",
+        "special": "none"
+      },
+      "story": "Your monkey rested today. No visible changes."
     }
   ]
 }
