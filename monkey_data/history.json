@@ -1903,6 +1903,22 @@
         "special": "none"
       },
       "story": "Your monkey evolved! Changes: pattern: spots \u2192 swirls"
+    },
+    {
+      "timestamp": "2026-03-20T02:23:27.977007",
+      "dna_hash": "332948214fc63f6e",
+      "generation": 2,
+      "mutation_count": 48,
+      "rarity_score": 23.333333333333332,
+      "traits": {
+        "body_color": "gray",
+        "face_expression": "surprised",
+        "accessory": "sunglasses",
+        "pattern": "swirls",
+        "background": "forest",
+        "special": "glow"
+      },
+      "story": "Your monkey evolved! Changes: special: none \u2192 glow"
     }
   ]
 }
