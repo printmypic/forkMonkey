@@ -1919,6 +1919,22 @@
         "special": "glow"
       },
       "story": "Your monkey evolved! Changes: special: none \u2192 glow"
+    },
+    {
+      "timestamp": "2026-03-21T02:10:38.429261",
+      "dna_hash": "332948214fc63f6e",
+      "generation": 2,
+      "mutation_count": 48,
+      "rarity_score": 23.333333333333332,
+      "traits": {
+        "body_color": "gray",
+        "face_expression": "surprised",
+        "accessory": "sunglasses",
+        "pattern": "swirls",
+        "background": "forest",
+        "special": "glow"
+      },
+      "story": "Your monkey rested today. No visible changes."
     }
   ]
 }
