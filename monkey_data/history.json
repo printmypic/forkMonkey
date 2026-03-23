@@ -1951,6 +1951,22 @@
         "special": "glow"
       },
       "story": "Your monkey evolved! Changes: pattern: swirls \u2192 hearts"
+    },
+    {
+      "timestamp": "2026-03-23T02:31:58.532887",
+      "dna_hash": "c4a64e1e875dde53",
+      "generation": 2,
+      "mutation_count": 50,
+      "rarity_score": 23.333333333333332,
+      "traits": {
+        "body_color": "gray",
+        "face_expression": "surprised",
+        "accessory": "sunglasses",
+        "pattern": "diamonds",
+        "background": "forest",
+        "special": "glow"
+      },
+      "story": "Your monkey evolved! Changes: pattern: hearts \u2192 diamonds"
     }
   ]
 }
