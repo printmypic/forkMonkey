@@ -2047,6 +2047,22 @@
         "special": "glow"
       },
       "story": "Your monkey evolved! Changes: face_expression: surprised \u2192 cool"
+    },
+    {
+      "timestamp": "2026-03-29T02:41:05.025001",
+      "dna_hash": "8fe5ab975ae321e6",
+      "generation": 2,
+      "mutation_count": 53,
+      "rarity_score": 23.333333333333332,
+      "traits": {
+        "body_color": "tan",
+        "face_expression": "cool",
+        "accessory": "sunglasses",
+        "pattern": "diamonds",
+        "background": "aurora",
+        "special": "glow"
+      },
+      "story": "Your monkey evolved! Changes: background: forest \u2192 aurora"
     }
   ]
 }
