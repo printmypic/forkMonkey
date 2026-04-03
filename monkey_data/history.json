@@ -2127,6 +2127,22 @@
         "special": "glow"
       },
       "story": "Your monkey evolved! Changes: body_color: tan \u2192 beige"
+    },
+    {
+      "timestamp": "2026-04-03T02:35:19.681952",
+      "dna_hash": "32521726556eb7d0",
+      "generation": 2,
+      "mutation_count": 59,
+      "rarity_score": 36.666666666666664,
+      "traits": {
+        "body_color": "beige",
+        "face_expression": "cool",
+        "accessory": "headphones",
+        "pattern": "flames",
+        "background": "dimension_rift",
+        "special": "glow"
+      },
+      "story": "Your monkey evolved! Changes: background: aurora \u2192 dimension_rift"
     }
   ]
 }
