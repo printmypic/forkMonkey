@@ -2207,6 +2207,22 @@
         "special": "glow"
       },
       "story": "Your monkey evolved! Changes: pattern: flames \u2192 stars"
+    },
+    {
+      "timestamp": "2026-04-08T02:39:43.244184",
+      "dna_hash": "4ae3e8ce24f86845",
+      "generation": 2,
+      "mutation_count": 61,
+      "rarity_score": 31.666666666666664,
+      "traits": {
+        "body_color": "beige",
+        "face_expression": "cool",
+        "accessory": "headphones",
+        "pattern": "stars",
+        "background": "dimension_rift",
+        "special": "glow"
+      },
+      "story": "Your monkey rested today. No visible changes."
     }
   ]
 }
