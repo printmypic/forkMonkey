@@ -2527,6 +2527,22 @@
         "special": "particles"
       },
       "story": "Your monkey evolved! Changes: body_color: tan \u2192 brown"
+    },
+    {
+      "timestamp": "2026-04-28T03:28:27.184045",
+      "dna_hash": "96c5c50c2cf05743",
+      "generation": 2,
+      "mutation_count": 69,
+      "rarity_score": 30.0,
+      "traits": {
+        "body_color": "brown",
+        "face_expression": "wise",
+        "accessory": "headphones",
+        "pattern": "spots",
+        "background": "heaven",
+        "special": "sparkles"
+      },
+      "story": "Your monkey evolved! Changes: special: particles \u2192 sparkles"
     }
   ]
 }
