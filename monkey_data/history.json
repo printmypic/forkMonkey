@@ -2575,6 +2575,22 @@
         "special": "sparkles"
       },
       "story": "Your monkey evolved! Changes: body_color: brown \u2192 beige, pattern: spots \u2192 gradient, background: heaven \u2192 multiverse"
+    },
+    {
+      "timestamp": "2026-05-01T03:37:27.517689",
+      "dna_hash": "639e0f9141a3f053",
+      "generation": 2,
+      "mutation_count": 73,
+      "rarity_score": 31.666666666666664,
+      "traits": {
+        "body_color": "beige",
+        "face_expression": "wise",
+        "accessory": "headphones",
+        "pattern": "diamonds",
+        "background": "multiverse",
+        "special": "sparkles"
+      },
+      "story": "Your monkey evolved! Changes: pattern: gradient \u2192 diamonds"
     }
   ]
 }
