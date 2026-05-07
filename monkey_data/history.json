@@ -2671,6 +2671,22 @@
         "special": "sparkles"
       },
       "story": "Your monkey evolved! Changes: body_color: beige \u2192 tan, pattern: lightning \u2192 hearts"
+    },
+    {
+      "timestamp": "2026-05-07T03:25:52.576467",
+      "dna_hash": "41d60784fd5c89eb",
+      "generation": 2,
+      "mutation_count": 77,
+      "rarity_score": 31.666666666666664,
+      "traits": {
+        "body_color": "tan",
+        "face_expression": "wise",
+        "accessory": "headphones",
+        "pattern": "hearts",
+        "background": "multiverse",
+        "special": "sparkles"
+      },
+      "story": "Your monkey rested today. No visible changes."
     }
   ]
 }
