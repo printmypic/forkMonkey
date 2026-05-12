@@ -2751,6 +2751,22 @@
         "special": "glow"
       },
       "story": "Your monkey evolved! Changes: pattern: hearts \u2192 lightning, special: sparkles \u2192 glow"
+    },
+    {
+      "timestamp": "2026-05-12T03:30:49.876977",
+      "dna_hash": "05376cc434485a1d",
+      "generation": 2,
+      "mutation_count": 81,
+      "rarity_score": 36.666666666666664,
+      "traits": {
+        "body_color": "tan",
+        "face_expression": "wise",
+        "accessory": "sunglasses",
+        "pattern": "lightning",
+        "background": "multiverse",
+        "special": "glow"
+      },
+      "story": "Your monkey rested today. No visible changes."
     }
   ]
 }
