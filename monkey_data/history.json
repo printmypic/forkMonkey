@@ -2799,6 +2799,22 @@
         "special": "glow"
       },
       "story": "Your monkey evolved! Changes: background: multiverse \u2192 black_hole"
+    },
+    {
+      "timestamp": "2026-05-15T03:41:06.639262",
+      "dna_hash": "cea196e6b567fe8d",
+      "generation": 2,
+      "mutation_count": 85,
+      "rarity_score": 30.0,
+      "traits": {
+        "body_color": "tan",
+        "face_expression": "wise",
+        "accessory": "sunglasses",
+        "pattern": "diamonds",
+        "background": "black_hole",
+        "special": "none"
+      },
+      "story": "Your monkey evolved! Changes: pattern: lightning \u2192 diamonds, special: glow \u2192 none"
     }
   ]
 }
