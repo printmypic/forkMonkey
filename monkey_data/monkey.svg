@@ -66,7 +66,6 @@
 <ellipse cx="285" cy="145" rx="18" ry="22" fill="#FF9999"/>
 <ellipse cx="200" cy="200" rx="110" ry="115" fill="#808080" filter="url(#shadow)"/>
 <ellipse cx="180" cy="140" rx="50" ry="30" fill="#A0A0A0" opacity="0.3"/>
-<g clip-path="url(#head-clip)"><text x="120" y="120" font-size="18" fill="#FFD700" opacity="0.5">★</text><text x="193" y="277" font-size="18" fill="#FFD700" opacity="0.5">★</text><text x="266" y="274" font-size="18" fill="#FFD700" opacity="0.5">★</text><text x="179" y="271" font-size="18" fill="#FFD700" opacity="0.5">★</text><text x="252" y="268" font-size="18" fill="#FFD700" opacity="0.5">★</text><text x="165" y="265" font-size="18" fill="#FFD700" opacity="0.5">★</text><text x="238" y="262" font-size="18" fill="#FFD700" opacity="0.5">★</text><text x="151" y="259" font-size="18" fill="#FFD700" opacity="0.5">★</text></g>
 <ellipse cx="200" cy="235" rx="70" ry="60" fill="#FFDAB9"/>
 <ellipse cx="200" cy="250" rx="55" ry="40" fill="#DEB887" opacity="0.3"/>
 <ellipse cx="162" cy="185" rx="22" ry="24" fill="#000" opacity="0.08"/>
