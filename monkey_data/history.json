@@ -3087,6 +3087,22 @@
         "special": "none"
       },
       "story": "Your monkey rested today. No visible changes."
+    },
+    {
+      "timestamp": "2026-06-02T04:11:44.316319",
+      "dna_hash": "dc6fadfd41d6c30a",
+      "generation": 2,
+      "mutation_count": 95,
+      "rarity_score": 30.0,
+      "traits": {
+        "body_color": "tan",
+        "face_expression": "wise",
+        "accessory": "sunglasses",
+        "pattern": "diamonds",
+        "background": "multiverse",
+        "special": "none"
+      },
+      "story": "Your monkey evolved! Changes: body_color: gray \u2192 tan"
     }
   ]
 }
