@@ -3135,6 +3135,22 @@
         "special": "none"
       },
       "story": "Your monkey evolved! Changes: face_expression: wise \u2192 excited"
+    },
+    {
+      "timestamp": "2026-06-05T03:59:56.325555",
+      "dna_hash": "dc6fadfd41d6c30a",
+      "generation": 2,
+      "mutation_count": 97,
+      "rarity_score": 30.0,
+      "traits": {
+        "body_color": "tan",
+        "face_expression": "wise",
+        "accessory": "sunglasses",
+        "pattern": "diamonds",
+        "background": "multiverse",
+        "special": "none"
+      },
+      "story": "Your monkey evolved! Changes: face_expression: excited \u2192 wise"
     }
   ]
 }
