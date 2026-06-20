@@ -3375,6 +3375,22 @@
         "special": "none"
       },
       "story": "Your monkey evolved! Changes: accessory: crown \u2192 monocle"
+    },
+    {
+      "timestamp": "2026-06-20T03:54:50.497673",
+      "dna_hash": "5acdba28528415db",
+      "generation": 2,
+      "mutation_count": 105,
+      "rarity_score": 43.333333333333336,
+      "traits": {
+        "body_color": "tan",
+        "face_expression": "divine",
+        "accessory": "monocle",
+        "pattern": "diamonds",
+        "background": "multiverse",
+        "special": "none"
+      },
+      "story": "Your monkey evolved! Changes: face_expression: surprised \u2192 divine"
     }
   ]
 }
