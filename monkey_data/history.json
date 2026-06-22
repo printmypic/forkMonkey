@@ -3407,6 +3407,22 @@
         "special": "none"
       },
       "story": "Your monkey evolved! Changes: face_expression: divine \u2192 enlightened, background: multiverse \u2192 heaven"
+    },
+    {
+      "timestamp": "2026-06-22T04:41:10.372804",
+      "dna_hash": "457cef9601075531",
+      "generation": 2,
+      "mutation_count": 107,
+      "rarity_score": 43.333333333333336,
+      "traits": {
+        "body_color": "tan",
+        "face_expression": "enlightened",
+        "accessory": "monocle",
+        "pattern": "diamonds",
+        "background": "heaven",
+        "special": "none"
+      },
+      "story": "Your monkey rested today. No visible changes."
     }
   ]
 }
