@@ -3439,6 +3439,22 @@
         "special": "none"
       },
       "story": "Your monkey evolved! Changes: face_expression: enlightened \u2192 legendary"
+    },
+    {
+      "timestamp": "2026-06-24T03:49:04.575640",
+      "dna_hash": "957c134cdf7e391c",
+      "generation": 2,
+      "mutation_count": 110,
+      "rarity_score": 43.333333333333336,
+      "traits": {
+        "body_color": "tan",
+        "face_expression": "legendary",
+        "accessory": "monocle",
+        "pattern": "stars",
+        "background": "heaven",
+        "special": "none"
+      },
+      "story": "Your monkey evolved! Changes: pattern: diamonds \u2192 stars"
     }
   ]
 }
