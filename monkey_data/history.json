@@ -3519,6 +3519,22 @@
         "special": "none"
       },
       "story": "Your monkey evolved! Changes: accessory: monocle \u2192 headphones"
+    },
+    {
+      "timestamp": "2026-06-29T04:09:12.280256",
+      "dna_hash": "4b335dbf8c7d36b7",
+      "generation": 2,
+      "mutation_count": 111,
+      "rarity_score": 43.333333333333336,
+      "traits": {
+        "body_color": "tan",
+        "face_expression": "legendary",
+        "accessory": "headphones",
+        "pattern": "stars",
+        "background": "heaven",
+        "special": "none"
+      },
+      "story": "Your monkey rested today. No visible changes."
     }
   ]
 }
