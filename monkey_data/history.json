@@ -3791,6 +3791,22 @@
         "special": "none"
       },
       "story": "Your monkey rested today. No visible changes."
+    },
+    {
+      "timestamp": "2026-07-16T02:45:00.036430",
+      "dna_hash": "8453cbf8a75046aa",
+      "generation": 2,
+      "mutation_count": 115,
+      "rarity_score": 43.333333333333336,
+      "traits": {
+        "body_color": "tan",
+        "face_expression": "enlightened",
+        "accessory": "monocle",
+        "pattern": "swirls",
+        "background": "heaven",
+        "special": "none"
+      },
+      "story": "Your monkey evolved! Changes: face_expression: legendary \u2192 enlightened"
     }
   ]
 }
