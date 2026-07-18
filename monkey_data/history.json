@@ -3823,6 +3823,22 @@
         "special": "none"
       },
       "story": "Your monkey evolved! Changes: background: heaven \u2192 dimension_rift"
+    },
+    {
+      "timestamp": "2026-07-18T02:38:53.640193",
+      "dna_hash": "6d76ce2498c68713",
+      "generation": 2,
+      "mutation_count": 117,
+      "rarity_score": 48.333333333333336,
+      "traits": {
+        "body_color": "tan",
+        "face_expression": "enlightened",
+        "accessory": "monocle",
+        "pattern": "flames",
+        "background": "dimension_rift",
+        "special": "none"
+      },
+      "story": "Your monkey evolved! Changes: pattern: swirls \u2192 flames"
     }
   ]
 }
