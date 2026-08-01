@@ -4047,6 +4047,22 @@
         "special": "none"
       },
       "story": "Your monkey evolved! Changes: body_color: tan \u2192 silver"
+    },
+    {
+      "timestamp": "2026-08-01T02:57:00.366955",
+      "dna_hash": "fd99cce1d79eafa2",
+      "generation": 2,
+      "mutation_count": 121,
+      "rarity_score": 50.0,
+      "traits": {
+        "body_color": "silver",
+        "face_expression": "enlightened",
+        "accessory": "monocle",
+        "pattern": "flames",
+        "background": "dimension_rift",
+        "special": "none"
+      },
+      "story": "Your monkey rested today. No visible changes."
     }
   ]
 }
