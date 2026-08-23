@@ -4399,6 +4399,22 @@
         "special": "none"
       },
       "story": "Your monkey evolved! Changes: pattern: lightning \u2192 stars"
+    },
+    {
+      "timestamp": "2026-08-23T01:25:24.788094",
+      "dna_hash": "dfd3148aaa4f4423",
+      "generation": 2,
+      "mutation_count": 138,
+      "rarity_score": 48.333333333333336,
+      "traits": {
+        "body_color": "purple",
+        "face_expression": "legendary",
+        "accessory": "simple_hat",
+        "pattern": "hearts",
+        "background": "dimension_rift",
+        "special": "none"
+      },
+      "story": "Your monkey evolved! Changes: face_expression: divine \u2192 legendary, pattern: stars \u2192 hearts"
     }
   ]
 }
