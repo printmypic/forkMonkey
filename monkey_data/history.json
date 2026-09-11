@@ -4703,6 +4703,22 @@
         "special": "none"
       },
       "story": "Your monkey evolved! Changes: accessory: bow \u2192 crown"
+    },
+    {
+      "timestamp": "2026-09-11T03:35:39.965211",
+      "dna_hash": "0686db163c7a07ea",
+      "generation": 2,
+      "mutation_count": 144,
+      "rarity_score": 43.333333333333336,
+      "traits": {
+        "body_color": "copper",
+        "face_expression": "legendary",
+        "accessory": "crown",
+        "pattern": "spots",
+        "background": "dimension_rift",
+        "special": "none"
+      },
+      "story": "Your monkey rested today. No visible changes."
     }
   ]
 }
