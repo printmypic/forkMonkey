@@ -4815,6 +4815,22 @@
         "special": "glow"
       },
       "story": "Your monkey rested today. No visible changes."
+    },
+    {
+      "timestamp": "2026-09-18T03:44:41.993804",
+      "dna_hash": "40ab3f0b73dfb28e",
+      "generation": 2,
+      "mutation_count": 147,
+      "rarity_score": 45.0,
+      "traits": {
+        "body_color": "copper",
+        "face_expression": "legendary",
+        "accessory": "crown",
+        "pattern": "spots",
+        "background": "dimension_rift",
+        "special": "glow"
+      },
+      "story": "Your monkey evolved! Changes: face_expression: divine \u2192 legendary"
     }
   ]
 }
