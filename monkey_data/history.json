@@ -4879,6 +4879,22 @@
         "special": "glow"
       },
       "story": "Your monkey rested today. No visible changes."
+    },
+    {
+      "timestamp": "2026-09-22T03:51:52.098871",
+      "dna_hash": "ad5b059f5a348a21",
+      "generation": 2,
+      "mutation_count": 153,
+      "rarity_score": 48.333333333333336,
+      "traits": {
+        "body_color": "gray",
+        "face_expression": "legendary",
+        "accessory": "halo",
+        "pattern": "solid",
+        "background": "dimension_rift",
+        "special": "glow"
+      },
+      "story": "Your monkey evolved! Changes: pattern: spots \u2192 solid"
     }
   ]
 }
