@@ -4895,6 +4895,22 @@
         "special": "glow"
       },
       "story": "Your monkey evolved! Changes: pattern: spots \u2192 solid"
+    },
+    {
+      "timestamp": "2026-09-23T03:49:54.058326",
+      "dna_hash": "5abc87477ce5453d",
+      "generation": 2,
+      "mutation_count": 154,
+      "rarity_score": 48.333333333333336,
+      "traits": {
+        "body_color": "gray",
+        "face_expression": "legendary",
+        "accessory": "halo",
+        "pattern": "gradient",
+        "background": "dimension_rift",
+        "special": "glow"
+      },
+      "story": "Your monkey evolved! Changes: pattern: solid \u2192 gradient"
     }
   ]
 }
