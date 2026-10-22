@@ -5359,6 +5359,22 @@
         "special": "glow"
       },
       "story": "Your monkey evolved! Changes: face_expression: cosmic \u2192 zen, background: multiverse \u2192 aurora"
+    },
+    {
+      "timestamp": "2026-10-22T03:45:21.180980",
+      "dna_hash": "2116d942213e73cc",
+      "generation": 2,
+      "mutation_count": 168,
+      "rarity_score": 40.0,
+      "traits": {
+        "body_color": "brown",
+        "face_expression": "zen",
+        "accessory": "wings",
+        "pattern": "spots",
+        "background": "aurora",
+        "special": "glow"
+      },
+      "story": "Your monkey rested today. No visible changes."
     }
   ]
 }
