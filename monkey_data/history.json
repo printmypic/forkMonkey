@@ -5487,6 +5487,22 @@
         "special": "none"
       },
       "story": "Your monkey evolved! Changes: body_color: tan \u2192 brown, face_expression: zen \u2192 winking"
+    },
+    {
+      "timestamp": "2026-10-30T04:51:11.877907",
+      "dna_hash": "c041e70f3f872a2d",
+      "generation": 2,
+      "mutation_count": 177,
+      "rarity_score": 38.333333333333336,
+      "traits": {
+        "body_color": "brown",
+        "face_expression": "winking",
+        "accessory": "wings",
+        "pattern": "gradient",
+        "background": "volcano",
+        "special": "none"
+      },
+      "story": "Your monkey evolved! Changes: pattern: spots \u2192 gradient, background: aurora \u2192 volcano"
     }
   ]
 }
