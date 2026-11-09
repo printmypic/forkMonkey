@@ -52,11 +52,11 @@
 <rect width="400" height="400" fill="#1A0A00"/>
 <rect x="0" y="340" width="400" height="60" fill="#FF4500" opacity="0.6"/>
 <circle cx="30" cy="375" r="6" fill="#FF6600"/>
-<circle cx="358" cy="375" r="7" fill="#FF6600"/>
-<circle cx="346" cy="375" r="8" fill="#FF6600"/>
-<circle cx="334" cy="375" r="9" fill="#FF6600"/>
-<circle cx="322" cy="375" r="6" fill="#FF6600"/>
-<circle cx="310" cy="375" r="7" fill="#FF6600"/>
+<circle cx="361" cy="375" r="7" fill="#FF6600"/>
+<circle cx="352" cy="375" r="8" fill="#FF6600"/>
+<circle cx="343" cy="375" r="9" fill="#FF6600"/>
+<circle cx="334" cy="375" r="6" fill="#FF6600"/>
+<circle cx="325" cy="375" r="7" fill="#FF6600"/>
 
 <ellipse cx="115" cy="140" rx="45" ry="50" fill="#D2B48C" filter="url(#shadow)"/>
 <ellipse cx="115" cy="140" rx="30" ry="35" fill="#FFB6C1"/>
@@ -89,7 +89,7 @@
 <path d="M147 160 Q162 150 177 160" stroke="#5D2E0C" stroke-width="3" fill="none"/>
 <path d="M223 160 Q238 150 253 160" stroke="#5D2E0C" stroke-width="3" fill="none"/>
 <line x1="162" y1="185" x2="50" y2="250" stroke="#FF0000" stroke-width="4" opacity="0.7"/><line x1="238" y1="185" x2="350" y2="250" stroke="#FF0000" stroke-width="4" opacity="0.7"/>
-
+<ellipse cx="200" cy="340" rx="100" ry="20" fill="#000" opacity="0.2"/>
 <g transform="translate(325, 15)">
             <rect width="65" height="22" rx="4" fill="#A0A0A0" opacity="0.9"/>
             <text x="32" y="15" font-size="8" fill="#FFF" text-anchor="middle" font-family="sans-serif" font-weight="bold">COMMON</text>
