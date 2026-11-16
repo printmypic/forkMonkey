@@ -5759,6 +5759,22 @@
         "special": "glow"
       },
       "story": "Your monkey evolved! Changes: accessory: sunglasses \u2192 monocle"
+    },
+    {
+      "timestamp": "2026-11-16T05:22:41.337875",
+      "dna_hash": "c6b32c242807ca16",
+      "generation": 2,
+      "mutation_count": 190,
+      "rarity_score": 28.333333333333332,
+      "traits": {
+        "body_color": "tan",
+        "face_expression": "surprised",
+        "accessory": "monocle",
+        "pattern": "diamonds",
+        "background": "underwater",
+        "special": "glow"
+      },
+      "story": "Your monkey evolved! Changes: background: volcano \u2192 underwater"
     }
   ]
 }
