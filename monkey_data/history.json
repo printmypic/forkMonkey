@@ -5807,6 +5807,22 @@
         "special": "glow"
       },
       "story": "Your monkey rested today. No visible changes."
+    },
+    {
+      "timestamp": "2026-11-19T06:26:40.577537",
+      "dna_hash": "3abe7081a7a6ae1a",
+      "generation": 2,
+      "mutation_count": 193,
+      "rarity_score": 33.33333333333333,
+      "traits": {
+        "body_color": "brown",
+        "face_expression": "surprised",
+        "accessory": "monocle",
+        "pattern": "diamonds",
+        "background": "volcano",
+        "special": "energy"
+      },
+      "story": "Your monkey evolved! Changes: background: underwater \u2192 volcano, special: glow \u2192 energy"
     }
   ]
 }
