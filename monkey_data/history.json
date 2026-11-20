@@ -5823,6 +5823,22 @@
         "special": "energy"
       },
       "story": "Your monkey evolved! Changes: background: underwater \u2192 volcano, special: glow \u2192 energy"
+    },
+    {
+      "timestamp": "2026-11-20T06:13:16.351446",
+      "dna_hash": "d1d5394f2d723e68",
+      "generation": 2,
+      "mutation_count": 195,
+      "rarity_score": 33.33333333333333,
+      "traits": {
+        "body_color": "tan",
+        "face_expression": "surprised",
+        "accessory": "monocle",
+        "pattern": "stars",
+        "background": "volcano",
+        "special": "energy"
+      },
+      "story": "Your monkey evolved! Changes: body_color: brown \u2192 tan, pattern: diamonds \u2192 stars"
     }
   ]
 }
