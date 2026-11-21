@@ -5839,6 +5839,22 @@
         "special": "energy"
       },
       "story": "Your monkey evolved! Changes: body_color: brown \u2192 tan, pattern: diamonds \u2192 stars"
+    },
+    {
+      "timestamp": "2026-11-21T06:03:13.991917",
+      "dna_hash": "e6cb810d5f32d991",
+      "generation": 2,
+      "mutation_count": 196,
+      "rarity_score": 38.333333333333336,
+      "traits": {
+        "body_color": "tan",
+        "face_expression": "surprised",
+        "accessory": "monocle",
+        "pattern": "nebula",
+        "background": "volcano",
+        "special": "energy"
+      },
+      "story": "Your monkey evolved! Changes: pattern: stars \u2192 nebula"
     }
   ]
 }
